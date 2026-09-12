@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Adiel%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI/ML%20Engineer%20%7C%20GenAI%20%26%20Agentic%20Systems&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I%27m%20Adiel&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20GenAI%20and%20Agentic%20Systems&descSize=18&descAlignY=62" width="100%"/>
 
 <a href="https://linkedin.com/in/adieladaniel">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final-Year+B.Tech+CSE+(AI%2FML)+%40+Christ+University;Building+agentic+%26+multimodal+AI+systems;LangChain+%2F+LangGraph+%2F+PyTorch+%2F+FastAPI;Open+to+AI%2FML+%2C+GenAI+%26+Data+roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final-Year+B.Tech+CSE+(AI%2FML)+%40+Christ+University;Building+agentic+%26+multimodal+AI+systems;LangChain+%2F+LangGraph+%2F+PyTorch+%2F+FastAPI;Open+to+AI%2FML%2C+GenAI+%26+Data+roles" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=adieladaniel&label=Profile%20Views&color=8957e5&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/adieladaniel?label=Followers&style=flat&color=8957e5" alt="followers"/>
