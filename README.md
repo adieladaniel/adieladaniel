@@ -1,16 +1,16 @@
 <!--
-  SETUP NOTES (delete this comment block once you're done — it's invisible on GitHub anyway):
+  SETUP NOTES (delete this comment block once you're done - it's invisible on GitHub anyway):
   1. All widgets below (stats, streak, trophies, typing SVG, view counter) already point at
-     "adieladaniel" — they work automatically, no extra setup needed.
+     "adieladaniel" - they work automatically, no extra setup needed.
   2. Featured Projects now link to your real repos. One caveat: Student Progress Tracker has
      no "About" description on GitHub itself, so I wrote its blurb from the repo name and
-     folder structure (API/backend/public) — please correct it if that's off.
+     folder structure (API/backend/public) - please correct it if that's off.
   3. Want the animated contribution "snake" at the bottom? Add the small workflow file I sent
      alongside this (snake.yml) to a repo named exactly "adieladaniel" under .github/workflows/,
      then uncomment the <img> tag in the "One more thing" section below.
   4. Themes: every widget below uses the "tokyonight" theme to match a dark GitHub profile.
      If you use light mode, swap theme=tokyonight for theme=default (or radical/dracula/etc.)
-     in each URL — full theme list: github-readme-stats.vercel.app/api?theme=list
+     in each URL - full theme list: github-readme-stats.vercel.app/api?theme=list
 -->
 
 <div align="center">
@@ -40,13 +40,13 @@
 
 ## 🚀 About Me
 
-I'm a final-year **B.Tech CSE (AI & ML)** student at **Christ (Deemed to be) University, Bangalore**, graduating in 2027, and I build production-style AI/ML and GenAI systems — from LLM-powered analytics platforms to agentic multimodal diagnostic assistants.
+I'm a final-year **B.Tech CSE (AI & ML)** student at **Christ (Deemed to be) University, Bangalore**, graduating in 2027, and I build production-style AI/ML and GenAI systems - from LLM-powered analytics platforms to agentic multimodal diagnostic assistants.
 
-- 💼 At **Edunext Technologies**, I built a hybrid rule-based + LLM finance chatbot (LangGraph, RapidFuzz typo-correction, FastAPI) backed by 10+ endpoints processing 50,000+ student fee records — cutting manual reporting effort by **80%** across a 20+ school deployment.
+- 💼 At **Edunext Technologies**, I built a hybrid rule-based + LLM finance chatbot (LangGraph, RapidFuzz typo-correction, FastAPI) backed by 10+ endpoints processing 50,000+ student fee records - cutting manual reporting effort by **80%** across a 20+ school deployment.
 - 🩻 At **IEEE Bangalore Section**, I trained a dual-output EfficientNetB0 model for cancer classification and malignancy detection, reaching **97.99% / 98.13%** accuracy via transfer learning.
-- 🔭 Right now I'm deep in my final-year project, **MedReasonAI** — an agentic, multimodal medical diagnosis assistant with explainable AI and RAG-based evidence retrieval.
+- 🔭 Right now I'm deep in my final-year project, **MedReasonAI** - an agentic, multimodal medical diagnosis assistant with explainable AI and RAG-based evidence retrieval.
 - 🌱 Currently sharpening **data analysis** and **RAG pipeline** design.
-- 📍 Based in Bangalore, India — open to relocation.
+- 📍 Based in Bangalore, India - open to relocation.
 
 <div align="center">
 
@@ -65,16 +65,16 @@ I'm a final-year **B.Tech CSE (AI & ML)** student at **Christ (Deemed to be) Uni
 ### 🩺 MedReasonAI
 *Agentic multimodal medical diagnosis assistant*
 
-Fuses chest X-ray imaging, radiology text, and blood biomarkers (MIMIC-CXR + MIMIC-IV) through an agent-orchestrated pipeline — Grad-CAM + SHAP explainability, RAG-based evidence retrieval, and a consistency-checked final report.
+Fuses chest X-ray imaging, radiology text, and blood biomarkers (MIMIC-CXR + MIMIC-IV) through an agent-orchestrated pipeline - Grad-CAM + SHAP explainability, RAG-based evidence retrieval, and a consistency-checked final report.
 
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-🔒 Private repo — happy to share a demo/writeup on request
+🔒 Private repo - happy to share a demo/writeup on request
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 FinnBot — Financial AI Analytics Engine
+### 💬 FinnBot - Financial AI Analytics Engine
 *Hybrid analytics chatbot over your own data*
 
 Answers natural-language questions over uploaded datasets or live API-fetched data. Automatic schema detection, rule-based query planning with a Gemini fallback for low-confidence queries, and on-the-fly bar/pie/comparison chart generation.
@@ -91,7 +91,7 @@ Answers natural-language questions over uploaded datasets or live API-fetched da
 ### 🗂️ Obsidian Vault RAG Assistant
 *Local, agentic RAG over your own notes*
 
-Fully local RAG assistant that answers questions about an Obsidian vault with citations back to source notes — an agentic retrieval loop reformulates the query up to 3x when context is thin, and it can save its own answers back into the vault. Built as a 1-week MVP for a GenAI internship application.
+Fully local RAG assistant that answers questions about an Obsidian vault with citations back to source notes - an agentic retrieval loop reformulates the query up to 3x when context is thin, and it can save its own answers back into the vault. Built as a 1-week MVP for a GenAI internship application.
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
@@ -117,7 +117,7 @@ Dual-output EfficientNetB0 model performing multi-class cancer classification an
 ### 🔍 PromptSense AI
 *NLP framework for automated prompt scoring*
 
-Hybrid rule-based + DistilBERT scoring framework that assesses LLM prompt quality and automatically rewrites weak prompts — written up as a team research paper.
+Hybrid rule-based + DistilBERT scoring framework that assesses LLM prompt quality and automatically rewrites weak prompts - written up as a team research paper.
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
@@ -139,7 +139,7 @@ A full-stack platform for tracking student academic performance over time, with 
 </tr>
 </table>
 
-<p align="center"><sub>📄 Also co-authored a comparative study of five metaheuristic optimization algorithms — Artificial Bee Colony, PSO, Genetic Algorithms, Differential Evolution, and Spider Monkey Optimization — benchmarked on minimum spanning tree, robot path planning, feature selection, and TSP problems.</sub></p>
+<p align="center"><sub>📄 Also co-authored a comparative study of five metaheuristic optimization algorithms - Artificial Bee Colony, PSO, Genetic Algorithms, Differential Evolution, and Spider Monkey Optimization - benchmarked on minimum spanning tree, robot path planning, feature selection, and TSP problems.</sub></p>
 
 <br/>
 
@@ -202,6 +202,6 @@ A full-stack platform for tracking student academic performance over time, with 
 
 <!-- <img src="https://raw.githubusercontent.com/adieladaniel/adieladaniel/output/github-contribution-grid-snake.svg" width="100%"/> -->
 
-<sub>Thanks for stopping by — always up for a conversation about agentic AI, GenAI, or a good LeetCode problem ⚡</sub>
+<sub>Thanks for stopping by - always up for a conversation about agentic AI, GenAI, or a good LeetCode problem ⚡</sub>
 
 </div>
