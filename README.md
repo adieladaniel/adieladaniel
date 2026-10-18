@@ -11,14 +11,14 @@
 </tr>
 </table>
 
-<a href="https://linkedin.com/in/adieladaniel"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/adieladaniel"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
-<a href="mailto:adieladaniel2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
-<a href="https://adieladaniel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7dd3fc" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/adieladaniel"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/adieladaniel"><img src="assets/badges/leetcode.svg" alt="LeetCode"/></a>
+<a href="mailto:adieladaniel2006@gmail.com"><img src="assets/badges/gmail.svg" alt="Gmail"/></a>
+<a href="https://adieladaniel.vercel.app/"><img src="assets/badges/portfolio.svg" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Data%20Scientist%2FAnalyst-2ea44f?style=flat-square" alt="Open to AI/ML Engineer, GenAI, Data Scientist/Analyst roles"/>
+<img src="assets/badges/open-to-ai-ml-engineer-genai-data.svg" alt="Open to AI/ML Engineer, GenAI, Data Scientist/Analyst roles"/>
 <img src="https://komarev.com/ghpvc/?username=adieladaniel&label=Profile%20Views&color=8957e5&style=flat-square" alt="Profile views"/>
 
 </div>
@@ -56,7 +56,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - Multi-user platform with roles, a PostgreSQL job queue with crash recovery, and a credential vault
 - Load test: 280/280 runs passed ground truth, 0 cross-org leaks across 47,508 responses
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&logo=playwright&logoColor=7dd3fc" alt="Playwright"/> <img src="https://img.shields.io/badge/-Gemini%20API-0d1117?style=flat-square&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/fastapi.svg" alt="FastAPI"/> <img src="assets/badges/postgresql.svg" alt="PostgreSQL"/> <img src="assets/badges/playwright.svg" alt="Playwright"/> <img src="assets/badges/gemini-api.svg" alt="Gemini API"/>
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - Linked 53,000+ chest X-ray studies to clinical and lab records, and queried an 18GB+ lab-events dataset with DuckDB
 - Fusing unimodal models (MIMIC-CXR DenseNet, ClinicalBERT) lifted macro F1 from 0.51 to 0.61, with SHAP and Grad-CAM explanations
 
-<img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7dd3fc" alt="PyTorch"/> <img src="https://img.shields.io/badge/-DuckDB-0d1117?style=flat-square&logo=duckdb&logoColor=7dd3fc" alt="DuckDB"/> <img src="https://img.shields.io/badge/-ClinicalBERT-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="ClinicalBERT"/> <img src="https://img.shields.io/badge/-SHAP-0d1117?style=flat-square&logoColor=7dd3fc" alt="SHAP"/>
+<img src="assets/badges/pytorch.svg" alt="PyTorch"/> <img src="assets/badges/duckdb.svg" alt="DuckDB"/> <img src="assets/badges/clinicalbert.svg" alt="ClinicalBERT"/> <img src="assets/badges/shap.svg" alt="SHAP"/>
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - Rule-based query planning with a Gemini fallback for low-confidence questions
 - Generates charts automatically
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7dd3fc" alt="Pandas"/> <img src="https://img.shields.io/badge/-Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=7dd3fc" alt="Gemini"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/fastapi.svg" alt="FastAPI"/> <img src="assets/badges/pandas.svg" alt="Pandas"/> <img src="assets/badges/gemini.svg" alt="Gemini"/>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - Answers questions about your notes with citations back to the source
 - An agentic retrieval loop reformulates the query up to 3 times when the context is thin
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-Ollama-0d1117?style=flat-square&logo=ollama&logoColor=7dd3fc" alt="Ollama"/> <img src="https://img.shields.io/badge/-ChromaDB-0d1117?style=flat-square&logoColor=7dd3fc" alt="ChromaDB"/> <img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc" alt="React"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/fastapi.svg" alt="FastAPI"/> <img src="assets/badges/ollama.svg" alt="Ollama"/> <img src="assets/badges/chromadb.svg" alt="ChromaDB"/> <img src="assets/badges/react.svg" alt="React"/>
 
 </td>
 </tr>
@@ -107,7 +107,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - 97.99% classification accuracy and 98.13% malignancy detection
 - Built as an AI Intern at IEEE Bangalore Section
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=7dd3fc" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=7dd3fc" alt="OpenCV"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/tensorflow.svg" alt="TensorFlow"/> <img src="assets/badges/opencv.svg" alt="OpenCV"/>
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 - Hybrid rule-based and transformer scoring of LLM prompts, with automatic rewrites of weak ones
 - Written up as a team research paper
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="Transformers"/> <img src="https://img.shields.io/badge/-DistilBERT-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="DistilBERT"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/transformers.svg" alt="Transformers"/> <img src="assets/badges/distilbert.svg" alt="DistilBERT"/>
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 
 - Predicts medical equipment failure so teams can plan ahead
 
-<img src="https://img.shields.io/badge/-Decision%20support-0d1117?style=flat-square&logoColor=7dd3fc" alt="Decision support"/> <img src="https://img.shields.io/badge/-Failure%20prediction-0d1117?style=flat-square&logoColor=7dd3fc" alt="Failure prediction"/>
+<img src="assets/badges/decision-support.svg" alt="Decision support"/> <img src="assets/badges/failure-prediction.svg" alt="Failure prediction"/>
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 
 - Full-stack platform for website security analysis
 
-<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="JavaScript"/>
+<img src="assets/badges/javascript.svg" alt="JavaScript"/>
 
 </td>
 </tr>
@@ -164,31 +164,31 @@ I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. 
 <tr>
 <td><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=7dd3fc" alt="Java"/> <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="JavaScript"/> <img src="https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=7dd3fc" alt="C"/> <img src="https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=mysql&logoColor=7dd3fc" alt="SQL"/> <img src="https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=7dd3fc" alt="MySQL"/> <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/>
+<img src="assets/badges/python.svg" alt="Python"/> <img src="assets/badges/java.svg" alt="Java"/> <img src="assets/badges/javascript.svg" alt="JavaScript"/> <img src="assets/badges/c.svg" alt="C"/> <img src="assets/badges/sql.svg" alt="SQL"/> <img src="assets/badges/mysql.svg" alt="MySQL"/> <img src="assets/badges/postgresql.svg" alt="PostgreSQL"/>
 </td>
 </tr>
 <tr>
 <td><b>Web and backend</b></td>
 <td>
-<img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=7dd3fc" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express.js-0d1117?style=flat-square&logo=express&logoColor=7dd3fc" alt="Express.js"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/>
+<img src="assets/badges/react.svg" alt="React"/> <img src="assets/badges/node-js.svg" alt="Node.js"/> <img src="assets/badges/express-js.svg" alt="Express.js"/> <img src="assets/badges/fastapi.svg" alt="FastAPI"/>
 </td>
 </tr>
 <tr>
 <td><b>ML and data</b></td>
 <td>
-<img src="https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&logo=numpy&logoColor=7dd3fc" alt="NumPy"/> <img src="https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7dd3fc" alt="Pandas"/> <img src="https://img.shields.io/badge/-Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7dd3fc" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=7dd3fc" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7dd3fc" alt="PyTorch"/> <img src="https://img.shields.io/badge/-Deep%20learning-0d1117?style=flat-square&logoColor=7dd3fc" alt="Deep learning"/> <img src="https://img.shields.io/badge/-NLP-0d1117?style=flat-square&logoColor=7dd3fc" alt="NLP"/>
+<img src="assets/badges/numpy.svg" alt="NumPy"/> <img src="assets/badges/pandas.svg" alt="Pandas"/> <img src="assets/badges/scikit-learn.svg" alt="Scikit-learn"/> <img src="assets/badges/tensorflow.svg" alt="TensorFlow"/> <img src="assets/badges/pytorch.svg" alt="PyTorch"/> <img src="assets/badges/deep-learning.svg" alt="Deep learning"/> <img src="assets/badges/nlp.svg" alt="NLP"/>
 </td>
 </tr>
 <tr>
 <td><b>GenAI and agents</b></td>
 <td>
-<img src="https://img.shields.io/badge/-LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=7dd3fc" alt="LangGraph"/> <img src="https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain&logoColor=7dd3fc" alt="LangChain"/> <img src="https://img.shields.io/badge/-RAG-0d1117?style=flat-square&logoColor=7dd3fc" alt="RAG"/> <img src="https://img.shields.io/badge/-ChromaDB-0d1117?style=flat-square&logoColor=7dd3fc" alt="ChromaDB"/> <img src="https://img.shields.io/badge/-Qdrant-0d1117?style=flat-square&logoColor=7dd3fc" alt="Qdrant"/> <img src="https://img.shields.io/badge/-LLMs-0d1117?style=flat-square&logoColor=7dd3fc" alt="LLMs"/> <img src="https://img.shields.io/badge/-Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="Hugging Face"/>
+<img src="assets/badges/langgraph.svg" alt="LangGraph"/> <img src="assets/badges/langchain.svg" alt="LangChain"/> <img src="assets/badges/rag.svg" alt="RAG"/> <img src="assets/badges/chromadb.svg" alt="ChromaDB"/> <img src="assets/badges/qdrant.svg" alt="Qdrant"/> <img src="assets/badges/llms.svg" alt="LLMs"/> <img src="assets/badges/hugging-face.svg" alt="Hugging Face"/>
 </td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=7dd3fc" alt="Git"/> <img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc" alt="Docker"/> <img src="https://img.shields.io/badge/-Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=7dd3fc" alt="Power BI"/> <img src="https://img.shields.io/badge/-Tableau-0d1117?style=flat-square&logo=tableau&logoColor=7dd3fc" alt="Tableau"/> <img src="https://img.shields.io/badge/-Claude%20Code-0d1117?style=flat-square&logo=claude&logoColor=7dd3fc" alt="Claude Code"/>
+<img src="assets/badges/git.svg" alt="Git"/> <img src="assets/badges/docker.svg" alt="Docker"/> <img src="assets/badges/power-bi.svg" alt="Power BI"/> <img src="assets/badges/tableau.svg" alt="Tableau"/> <img src="assets/badges/claude-code.svg" alt="Claude Code"/>
 </td>
 </tr>
 </table>

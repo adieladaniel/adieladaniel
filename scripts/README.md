@@ -23,4 +23,22 @@ repository and never embedded in the SVG. The output contains only generated
 vector circles. `.gitignore` blocks `*.png`, `*.jpg`, `*.jpeg`, `*.webp` and a
 `private/` folder so a source photo cannot be committed by accident.
 
-Requirements for the portrait script: `pip install pillow numpy scipy`.
+Requirements for the portrait script: `pip install pillow numpy scipy opencv-python`.
+
+## Badges are local files
+
+The README does not load badges from img.shields.io (GitHub's image proxy
+sometimes fails on them). `scripts/vendor_badges.py` downloads each badge once to
+`assets/badges/<slug>.svg`, inlines the logo vectors (raw.githubusercontent may
+block `data:` URIs, so no `<image>`, `data:` or base64 is kept) and rewrites the
+README to the local path. `assets/badges/manifest.json` maps each shields URL to
+its slug, so slugs are stable. The only external image left is the komarev
+profile-view counter.
+
+To add a badge:
+
+1. Paste a normal `https://img.shields.io/badge/...` URL into the `<img src>` in `README.md`.
+2. Run `python scripts/vendor_badges.py`. It saves the new file and rewrites that `src`.
+
+Running it again with no shields URLs in the README changes nothing. Standard
+library only.
