@@ -1,0 +1,13 @@
+# Never commit source photos. The portrait generator reads the photo from outside the repo.
+*.jpg
+*.jpeg
+*.png
+*.webp
+private/
+
+# Python
+__pycache__/
+*.pyc
+
+# Allow the generated SVG assets (they are vector only)
+!assets/*.svg

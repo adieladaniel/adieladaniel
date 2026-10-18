@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 778" width="960" height="778" role="img" aria-label="Adiel A Daniel career timeline drawn as a git commit graph">
+<title>Adiel A Daniel, journey as a git log graph</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.h{fill:#6b7a8c;font-size:12.5px}.d{font-size:12.5px}.m{fill:#d7dee8;font-size:14px}.row{animation-duration:22.0s;animation-iteration-count:infinite;animation-timing-function:ease-out;animation-fill-mode:both}.ln{fill:none;stroke-width:2.4;stroke-linecap:round;animation-duration:22.0s;animation-iteration-count:infinite;animation-timing-function:ease-in-out;animation-fill-mode:both}.dash{stroke-dasharray:3 6}.nd{transform-box:fill-box;transform-origin:center;animation-duration:22.0s;animation-iteration-count:infinite;animation-fill-mode:both}@keyframes r0{0%,13.636%{opacity:0;transform:translateX(-10px)}15.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p0{0%,13.636%{transform:scale(0)}14.636%{transform:scale(1.6)}15.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l0{0%,12.273%{stroke-dashoffset:1;opacity:1}14.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f0{0%,13.636%{opacity:0}15.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r0{animation-name:r0}.f0{animation-name:f0}.p0{animation-name:p0}.l0{animation-name:l0}@keyframes r1{0%,15.636%{opacity:0;transform:translateX(-10px)}17.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p1{0%,15.636%{transform:scale(0)}16.636%{transform:scale(1.6)}17.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l1{0%,14.273%{stroke-dashoffset:1;opacity:1}16.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f1{0%,15.636%{opacity:0}17.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r1{animation-name:r1}.f1{animation-name:f1}.p1{animation-name:p1}.l1{animation-name:l1}@keyframes r2{0%,17.636%{opacity:0;transform:translateX(-10px)}19.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p2{0%,17.636%{transform:scale(0)}18.636%{transform:scale(1.6)}19.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l2{0%,16.273%{stroke-dashoffset:1;opacity:1}18.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f2{0%,17.636%{opacity:0}19.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r2{animation-name:r2}.f2{animation-name:f2}.p2{animation-name:p2}.l2{animation-name:l2}@keyframes r3{0%,19.636%{opacity:0;transform:translateX(-10px)}21.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p3{0%,19.636%{transform:scale(0)}20.636%{transform:scale(1.6)}21.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l3{0%,18.273%{stroke-dashoffset:1;opacity:1}20.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f3{0%,19.636%{opacity:0}21.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r3{animation-name:r3}.f3{animation-name:f3}.p3{animation-name:p3}.l3{animation-name:l3}@keyframes r4{0%,21.636%{opacity:0;transform:translateX(-10px)}23.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p4{0%,21.636%{transform:scale(0)}22.636%{transform:scale(1.6)}23.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l4{0%,20.273%{stroke-dashoffset:1;opacity:1}22.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f4{0%,21.636%{opacity:0}23.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r4{animation-name:r4}.f4{animation-name:f4}.p4{animation-name:p4}.l4{animation-name:l4}@keyframes r5{0%,23.636%{opacity:0;transform:translateX(-10px)}25.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p5{0%,23.636%{transform:scale(0)}24.636%{transform:scale(1.6)}25.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l5{0%,22.273%{stroke-dashoffset:1;opacity:1}24.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f5{0%,23.636%{opacity:0}25.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r5{animation-name:r5}.f5{animation-name:f5}.p5{animation-name:p5}.l5{animation-name:l5}@keyframes r6{0%,25.636%{opacity:0;transform:translateX(-10px)}27.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p6{0%,25.636%{transform:scale(0)}26.636%{transform:scale(1.6)}27.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l6{0%,24.273%{stroke-dashoffset:1;opacity:1}26.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f6{0%,25.636%{opacity:0}27.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r6{animation-name:r6}.f6{animation-name:f6}.p6{animation-name:p6}.l6{animation-name:l6}@keyframes r7{0%,27.636%{opacity:0;transform:translateX(-10px)}29.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p7{0%,27.636%{transform:scale(0)}28.636%{transform:scale(1.6)}29.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l7{0%,26.273%{stroke-dashoffset:1;opacity:1}28.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f7{0%,27.636%{opacity:0}29.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r7{animation-name:r7}.f7{animation-name:f7}.p7{animation-name:p7}.l7{animation-name:l7}@keyframes r8{0%,29.636%{opacity:0;transform:translateX(-10px)}31.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p8{0%,29.636%{transform:scale(0)}30.636%{transform:scale(1.6)}31.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l8{0%,28.273%{stroke-dashoffset:1;opacity:1}30.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f8{0%,29.636%{opacity:0}31.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r8{animation-name:r8}.f8{animation-name:f8}.p8{animation-name:p8}.l8{animation-name:l8}@keyframes r9{0%,31.636%{opacity:0;transform:translateX(-10px)}33.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p9{0%,31.636%{transform:scale(0)}32.636%{transform:scale(1.6)}33.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l9{0%,30.273%{stroke-dashoffset:1;opacity:1}32.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f9{0%,31.636%{opacity:0}33.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r9{animation-name:r9}.f9{animation-name:f9}.p9{animation-name:p9}.l9{animation-name:l9}@keyframes r10{0%,33.636%{opacity:0;transform:translateX(-10px)}35.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p10{0%,33.636%{transform:scale(0)}34.636%{transform:scale(1.6)}35.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l10{0%,32.273%{stroke-dashoffset:1;opacity:1}34.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f10{0%,33.636%{opacity:0}35.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r10{animation-name:r10}.f10{animation-name:f10}.p10{animation-name:p10}.l10{animation-name:l10}@keyframes r11{0%,35.636%{opacity:0;transform:translateX(-10px)}37.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p11{0%,35.636%{transform:scale(0)}36.636%{transform:scale(1.6)}37.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l11{0%,34.273%{stroke-dashoffset:1;opacity:1}36.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f11{0%,35.636%{opacity:0}37.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r11{animation-name:r11}.f11{animation-name:f11}.p11{animation-name:p11}.l11{animation-name:l11}@keyframes r12{0%,37.636%{opacity:0;transform:translateX(-10px)}39.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p12{0%,37.636%{transform:scale(0)}38.636%{transform:scale(1.6)}39.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l12{0%,36.273%{stroke-dashoffset:1;opacity:1}38.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f12{0%,37.636%{opacity:0}39.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r12{animation-name:r12}.f12{animation-name:f12}.p12{animation-name:p12}.l12{animation-name:l12}@keyframes r13{0%,39.636%{opacity:0;transform:translateX(-10px)}41.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p13{0%,39.636%{transform:scale(0)}40.636%{transform:scale(1.6)}41.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l13{0%,38.273%{stroke-dashoffset:1;opacity:1}40.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f13{0%,39.636%{opacity:0}41.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r13{animation-name:r13}.f13{animation-name:f13}.p13{animation-name:p13}.l13{animation-name:l13}@keyframes r14{0%,41.636%{opacity:0;transform:translateX(-10px)}43.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p14{0%,41.636%{transform:scale(0)}42.636%{transform:scale(1.6)}43.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l14{0%,40.273%{stroke-dashoffset:1;opacity:1}42.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f14{0%,41.636%{opacity:0}43.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r14{animation-name:r14}.f14{animation-name:f14}.p14{animation-name:p14}.l14{animation-name:l14}@keyframes r15{0%,43.636%{opacity:0;transform:translateX(-10px)}45.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p15{0%,43.636%{transform:scale(0)}44.636%{transform:scale(1.6)}45.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l15{0%,42.273%{stroke-dashoffset:1;opacity:1}44.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f15{0%,43.636%{opacity:0}45.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r15{animation-name:r15}.f15{animation-name:f15}.p15{animation-name:p15}.l15{animation-name:l15}@keyframes r16{0%,45.636%{opacity:0;transform:translateX(-10px)}47.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p16{0%,45.636%{transform:scale(0)}46.636%{transform:scale(1.6)}47.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l16{0%,44.273%{stroke-dashoffset:1;opacity:1}46.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f16{0%,45.636%{opacity:0}47.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r16{animation-name:r16}.f16{animation-name:f16}.p16{animation-name:p16}.l16{animation-name:l16}@keyframes r17{0%,47.636%{opacity:0;transform:translateX(-10px)}49.364%{opacity:1;transform:none}96%{opacity:1}98.5%,100%{opacity:0}}@keyframes p17{0%,47.636%{transform:scale(0)}48.636%{transform:scale(1.6)}49.909%{transform:scale(1)}98.5%{transform:scale(1)}100%{transform:scale(0)}}@keyframes l17{0%,46.273%{stroke-dashoffset:1;opacity:1}48.182%{stroke-dashoffset:0}96%{opacity:1}98.5%{opacity:0;stroke-dashoffset:0}100%{stroke-dashoffset:1;opacity:0}}@keyframes f17{0%,47.636%{opacity:0}49.364%{opacity:.7}96%{opacity:.7}98.5%,100%{opacity:0}}.r17{animation-name:r17}.f17{animation-name:f17}.p17{animation-name:p17}.l17{animation-name:l17}@keyframes ty{0%,2.727%{transform:translateX(0)}10.909%,100%{transform:translateX(306px)}}.cover{animation:ty 22.0s steps(36,end) infinite}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1.1s steps(1) infinite}@keyframes ring{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.6);opacity:0}}.pulse{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}.cover,.pulse{display:none}}</style>
+<rect width="960" height="778" rx="14" fill="#0d1117"/>
+<rect x=".75" y=".75" width="958.5" height="776.5" rx="13.5" fill="none" stroke="#2a3441" stroke-width="1.5"/>
+<path d="M0 14a14 14 0 0 1 14-14H946a14 14 0 0 1 14 14V42H0Z" fill="#161b22"/>
+<line x1="0" y1="42" x2="960" y2="42" stroke="#2a3441"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f57" opacity=".85"/>
+<circle cx="46" cy="21" r="6" fill="#febc2e" opacity=".85"/>
+<circle cx="68" cy="21" r="6" fill="#28c840" opacity=".85"/>
+<text x="480.0" y="26" text-anchor="middle" font-size="13" fill="#6b7a8c">adiel@github: ~/life</text>
+<text x="881" y="26" font-size="12" fill="#fbbf24">projects</text>
+<circle cx="871" cy="21.5" r="4" fill="#fbbf24"/>
+<text x="769" y="26" font-size="12" fill="#86efac">internships</text>
+<circle cx="759" cy="21.5" r="4" fill="#86efac"/>
+<text x="688" y="26" font-size="12" fill="#a78bfa">college</text>
+<circle cx="678" cy="21.5" r="4" fill="#a78bfa"/>
+<text x="628" y="26" font-size="12" fill="#7dd3fc">main</text>
+<circle cx="618" cy="21.5" r="4" fill="#7dd3fc"/>
+<text x="24" y="80" font-size="14" fill="#86efac">adiel@github</text>
+<text x="125" y="80" font-size="14" fill="#6b7a8c">:~$</text>
+<text x="158" y="80" font-size="14" fill="#d7dee8" xml:space="preserve">git log --graph --oneline --all life</text>
+<rect class="cover" x="157" y="64" width="314" height="22" fill="#0d1117"/>
+<path class="ln l1" d="M40 128V164" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l2" d="M40 164V200" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l3" d="M40 200V236" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l4" d="M40 236V272" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l5" d="M40 272V308" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l6" d="M40 308V344" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l7" d="M40 344V380" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l8" d="M40 380V416" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l9" d="M40 416V452" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l10" d="M40 452V488" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l11" d="M40 488V524" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l12" d="M40 524V560" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l13" d="M40 560V596" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l14" d="M40 596V632" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln l15" d="M40 632V668" pathLength="1" stroke-dasharray="1" stroke="#7dd3fc"/>
+<path class="ln dash f16" d="M40 668V704" stroke="#7dd3fc"/>
+<path class="ln l1" d="M40 128C40 150 74 142 74 164" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l2" d="M74 164V200" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l3" d="M74 200V236" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l4" d="M74 236V272" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l5" d="M74 272V308" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l6" d="M74 308V344" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l7" d="M74 344V380" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l8" d="M74 380V416" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l9" d="M74 416V452" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l10" d="M74 452V488" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l11" d="M74 488V524" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l12" d="M74 524V560" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l13" d="M74 560V596" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l14" d="M74 596V632" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln l15" d="M74 632V668" pathLength="1" stroke-dasharray="1" stroke="#a78bfa"/>
+<path class="ln dash f16" d="M74 668C74 690 40 682 40 704" stroke="#a78bfa"/>
+<path class="ln l6" d="M40 308C40 330 108 322 108 344" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l7" d="M108 344V380" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l8" d="M108 380V416" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l9" d="M108 416V452" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l10" d="M108 452V488" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l11" d="M108 488V524" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l12" d="M108 524V560" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l13" d="M108 560V596" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l14" d="M108 596V632" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l15" d="M108 632C108 654 40 646 40 668" pathLength="1" stroke-dasharray="1" stroke="#86efac"/>
+<path class="ln l3" d="M40 200C40 222 142 214 142 236" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l4" d="M142 236V272" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l5" d="M142 272V308" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l6" d="M142 308V344" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l7" d="M142 344V380" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l8" d="M142 380V416" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l9" d="M142 416V452" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l10" d="M142 452V488" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l11" d="M142 488V524" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l12" d="M142 524V560" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l13" d="M142 560V596" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l14" d="M142 596V632" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<path class="ln l15" d="M142 632C142 654 40 646 40 668" pathLength="1" stroke-dasharray="1" stroke="#fbbf24"/>
+<g class="row r0">
+<circle class="nd p0" cx="40" cy="128" r="6.2" fill="#7dd3fc" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="132.5">50b3e14</text>
+<text class="d" x="262" y="132.5" fill="#7dd3fc">Jul 2023</text>
+<text class="m" x="366" y="132.5">init: B.Tech CSE (AI &amp; ML) at Christ University</text>
+</g>
+<g class="row r1">
+<circle class="nd p1" cx="40" cy="164" r="6.2" fill="#7dd3fc" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="168.5">8127d42</text>
+<text class="d" x="262" y="168.5" fill="#7dd3fc">Jul 2024</text>
+<text class="m" x="366" y="168.5">feat: first lines of code, HTML, CSS, JS, then React</text>
+</g>
+<g class="row r2">
+<circle class="nd p2" cx="40" cy="200" r="6.2" fill="#7dd3fc" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="204.5">bddb88c</text>
+<text class="d" x="262" y="204.5" fill="#7dd3fc">Sep 2024</text>
+<text class="m" x="366" y="204.5">chore: join GitHub</text>
+</g>
+<g class="row r3">
+<circle class="nd p3" cx="74" cy="236" r="6.2" fill="#a78bfa" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="240.5">b97d88f</text>
+<text class="d" x="262" y="240.5" fill="#a78bfa">2024</text>
+<text class="m" x="366" y="240.5">Smart India Hackathon: cleared the university round</text>
+</g>
+<g class="row r4">
+<circle class="nd p4" cx="142" cy="272" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="276.5">82f7c56</text>
+<text class="d" x="262" y="276.5" fill="#fbbf24">Dec 2024</text>
+<text class="m" x="366" y="276.5">add Bank-Management-System (Java), my first repo</text>
+</g>
+<g class="row r5">
+<circle class="nd p5" cx="40" cy="308" r="6.2" fill="#7dd3fc" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="312.5">8973092</text>
+<text class="d" x="262" y="312.5" fill="#7dd3fc">2025</text>
+<text class="m" x="366" y="312.5">refactor: move to Python and ML</text>
+</g>
+<g class="row r6">
+<circle class="nd p6" cx="108" cy="344" r="6.2" fill="#86efac" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="348.5">8f63575</text>
+<text class="d" x="262" y="348.5" fill="#86efac">Apr-Jul 2025</text>
+<text class="m" x="366" y="348.5">IEEE Bangalore AI intern: OncoVision 97.99% / 98.13%</text>
+</g>
+<g class="row r7">
+<circle class="nd p7" cx="142" cy="380" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="384.5">1c3297f</text>
+<text class="d" x="262" y="384.5" fill="#fbbf24">Nov 2025</text>
+<text class="m" x="366" y="384.5">add DigitalImageProcessing</text>
+</g>
+<g class="row r8">
+<circle class="nd p8" cx="142" cy="416" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="420.5">6d36ce7</text>
+<text class="d" x="262" y="420.5" fill="#fbbf24">Feb 2026</text>
+<text class="m" x="366" y="420.5">add Student_Progress_Tracker-v2</text>
+</g>
+<g class="row r9">
+<circle class="nd p9" cx="108" cy="452" r="6.2" fill="#86efac" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="456.5">cb3f054</text>
+<text class="d" x="262" y="456.5" fill="#86efac">Apr-May 2026</text>
+<text class="m" x="366" y="456.5">Edunext SWE intern: AI finance analytics, 80% less manual reporting</text>
+</g>
+<g class="row r10">
+<circle class="nd p10" cx="142" cy="488" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="492.5">a7a1631</text>
+<text class="d" x="262" y="492.5" fill="#fbbf24">May 2026</text>
+<text class="m" x="366" y="492.5">add FinnBot and Web-Security-Checker</text>
+</g>
+<g class="row r11">
+<circle class="nd p11" cx="142" cy="524" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="528.5">83d31da</text>
+<text class="d" x="262" y="528.5" fill="#fbbf24">May-Sep 2026</text>
+<text class="m" x="366" y="528.5">OneForAll Agent: 280/280 soak runs, 0 cross-org leaks</text>
+</g>
+<g class="row r12">
+<circle class="nd p12" cx="142" cy="560" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="564.5">f00920b</text>
+<text class="d" x="262" y="564.5" fill="#fbbf24">Jul 2026</text>
+<text class="m" x="366" y="564.5">start MedReasonAI: multimodal diagnostic assistant</text>
+</g>
+<g class="row r13">
+<circle class="nd p13" cx="142" cy="596" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="600.5">e8f85db</text>
+<text class="d" x="262" y="600.5" fill="#fbbf24">Aug 2026</text>
+<text class="m" x="366" y="600.5">add obsidian-rag-assistant, local agentic RAG</text>
+</g>
+<g class="row r14">
+<circle class="nd p14" cx="142" cy="632" r="6.2" fill="#fbbf24" stroke="#0d1117" stroke-width="2.5"/>
+<text class="h" x="188" y="636.5">d81bf7f</text>
+<text class="d" x="262" y="636.5" fill="#fbbf24">Sep 2026</text>
+<text class="m" x="366" y="636.5">add PromptSense-AI and Prognix</text>
+</g>
+<g class="row r15">
+<circle class="nd p15" cx="40" cy="668" r="6.2" fill="#7dd3fc" stroke="#0d1117" stroke-width="2.5"/>
+<circle class="pulse" cx="40" cy="668" r="7" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+<text class="h" x="188" y="672.5">37b924c</text>
+<text class="d" x="262" y="672.5" fill="#7dd3fc">now</text>
+<text class="m" x="366" y="672.5">building agentic AI</text>
+<rect x="542" y="658" width="112" height="20" rx="10" fill="#0f2a3a" stroke="#7dd3fc" stroke-width="1"/>
+<text x="598" y="672" font-size="12" fill="#7dd3fc" text-anchor="middle">HEAD -&gt; main</text>
+</g>
+<g class="row r16">
+<circle class="nd p16" cx="40" cy="704" r="6" fill="#0d1117" stroke="#7dd3fc" stroke-width="2" stroke-dasharray="3 2.5"/>
+<text class="h" x="188" y="708.5" opacity=".6">e1fb2e9</text>
+<text class="d" x="262" y="708.5" fill="#7dd3fc" opacity=".6">Apr 2027</text>
+<text class="m" x="366" y="708.5" opacity=".6" font-style="italic">graduate: B.Tech CSE (AI &amp; ML), class of 2027</text>
+</g>
+<g class="row r17"><text x="24" y="754" font-size="14" fill="#86efac">adiel@github</text><text x="125" y="754" font-size="14" fill="#6b7a8c">:~$</text><rect class="cur" x="160" y="742" width="9" height="16" fill="#7dd3fc"/></g>
+</svg>

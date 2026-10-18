@@ -1,0 +1,31 @@
+# Data for assets/journey.svg (see make_journey.py).
+# Every fact here comes from the profile owner; edit the text, then re-run:
+#   python scripts/make_journey.py
+title: "adiel@github: ~/life"
+command: "git log --graph --oneline --all life"
+
+# Lane order is left to right. `fork_from` / `merge_into` are commit indexes (0-based).
+lanes:
+  - {name: main,        color: "#7dd3fc"}
+  - {name: college,     color: "#a78bfa", fork_from: 0,  merge_into: 16}
+  - {name: internships, color: "#86efac", fork_from: 5,  merge_into: 15}
+  - {name: projects,    color: "#fbbf24", fork_from: 2,  merge_into: 15}
+
+commits:
+  - {lane: main,        date: "Jul 2023",       msg: "init: B.Tech CSE (AI & ML) at Christ University"}
+  - {lane: main,        date: "Jul 2024",       msg: "feat: first lines of code, HTML, CSS, JS, then React"}
+  - {lane: main,        date: "Sep 2024",       msg: "chore: join GitHub"}
+  - {lane: college,     date: "2024",           msg: "Smart India Hackathon: cleared the university round"}
+  - {lane: projects,    date: "Dec 2024",       msg: "add Bank-Management-System (Java), my first repo"}
+  - {lane: main,        date: "2025",           msg: "refactor: move to Python and ML"}
+  - {lane: internships, date: "Apr-Jul 2025",   msg: "IEEE Bangalore AI intern: OncoVision 97.99% / 98.13%"}
+  - {lane: projects,    date: "Nov 2025",       msg: "add DigitalImageProcessing"}
+  - {lane: projects,    date: "Feb 2026",       msg: "add Student_Progress_Tracker-v2"}
+  - {lane: internships, date: "Apr-May 2026",   msg: "Edunext SWE intern: AI finance analytics, 80% less manual reporting"}
+  - {lane: projects,    date: "May 2026",       msg: "add FinnBot and Web-Security-Checker"}
+  - {lane: projects,    date: "May-Sep 2026",   msg: "OneForAll Agent: 280/280 soak runs, 0 cross-org leaks"}
+  - {lane: projects,    date: "Jul 2026",       msg: "start MedReasonAI: multimodal diagnostic assistant"}
+  - {lane: projects,    date: "Aug 2026",       msg: "add obsidian-rag-assistant, local agentic RAG"}
+  - {lane: projects,    date: "Sep 2026",       msg: "add PromptSense-AI and Prognix"}
+  - {lane: main,        date: "now",            msg: "building agentic AI", head: true}
+  - {lane: main,        date: "Apr 2027",       msg: "graduate: B.Tech CSE (AI & ML), class of 2027", future: true}

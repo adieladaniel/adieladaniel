@@ -1,207 +1,223 @@
-<!--
-  SETUP NOTES (delete this comment block once you're done - it's invisible on GitHub anyway):
-  1. All widgets below (stats, streak, trophies, typing SVG, view counter) already point at
-     "adieladaniel" - they work automatically, no extra setup needed.
-  2. Featured Projects now link to your real repos. One caveat: Student Progress Tracker has
-     no "About" description on GitHub itself, so I wrote its blurb from the repo name and
-     folder structure (API/backend/public) - please correct it if that's off.
-  3. Want the animated contribution "snake" at the bottom? Add the small workflow file I sent
-     alongside this (snake.yml) to a repo named exactly "adieladaniel" under .github/workflows/,
-     then uncomment the <img> tag in the "One more thing" section below.
-  4. Themes: every widget below uses the "tokyonight" theme to match a dark GitHub profile.
-     If you use light mode, swap theme=tokyonight for theme=default (or radical/dracula/etc.)
-     in each URL - full theme list: github-readme-stats.vercel.app/api?theme=list
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I%27m%20Adiel&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20GenAI%20and%20Agentic%20Systems&descSize=18&descAlignY=62" width="100%"/>
+<table>
+<tr>
+<td width="38%" valign="middle" align="center">
+<img src="assets/portrait.svg" width="300" alt="Halftone dot portrait of Adiel A Daniel"/>
+</td>
+<td width="62%" valign="middle" align="center">
+<img src="assets/terminal.svg" width="500" alt="Terminal intro: whoami, cat role.txt, neofetch"/>
+</td>
+</tr>
+</table>
 
-<a href="https://linkedin.com/in/adieladaniel">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/adieladaniel">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:adieladaniel2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/adieladaniel"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/adieladaniel"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="mailto:adieladaniel2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+<a href="https://adieladaniel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7dd3fc" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final-Year+B.Tech+CSE+(AI%2FML)+%40+Christ+University;Building+agentic+%26+multimodal+AI+systems;LangChain+%2F+LangGraph+%2F+PyTorch+%2F+FastAPI;Open+to+AI%2FML%2C+GenAI+%26+Data+roles" alt="Typing SVG"/>
-
-<img src="https://komarev.com/ghpvc/?username=adieladaniel&label=Profile%20Views&color=8957e5&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/adieladaniel?label=Followers&style=flat&color=8957e5" alt="followers"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Data%20Scientist%2FAnalyst-2ea44f?style=flat-square" alt="Open to AI/ML Engineer, GenAI, Data Scientist/Analyst roles"/>
+<img src="https://komarev.com/ghpvc/?username=adieladaniel&label=Profile%20Views&color=8957e5&style=flat-square" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## About
 
-I'm a final-year **B.Tech CSE (AI & ML)** student at **Christ (Deemed to be) University, Bangalore**, graduating in 2027, and I build production-style AI/ML and GenAI systems - from LLM-powered analytics platforms to agentic multimodal diagnostic assistants.
+I'm a final-year B.Tech CSE (AI & ML) student in Bangalore, graduating in 2027. I build AI systems that do real work: LLM analytics pipelines, browser agents with human approval gates, and multimodal diagnostic models. Based in Bangalore, India, and open to relocation.
 
-- 💼 At **Edunext Technologies**, I built a hybrid rule-based + LLM finance chatbot (LangGraph, RapidFuzz typo-correction, FastAPI) backed by 10+ endpoints processing 50,000+ student fee records - cutting manual reporting effort by **80%** across a 20+ school deployment.
-- 🩻 At **IEEE Bangalore Section**, I trained a dual-output EfficientNetB0 model for cancer classification and malignancy detection, reaching **97.99% / 98.13%** accuracy via transfer learning.
-- 🔭 Right now I'm deep in my final-year project, **MedReasonAI** - an agentic, multimodal medical diagnosis assistant with explainable AI and RAG-based evidence retrieval.
-- 🌱 Currently sharpening **data analysis** and **RAG pipeline** design.
-- 📍 Based in Bangalore, India - open to relocation.
+- **Edunext Technologies**, Software Engineer Intern, Apr to May 2026. Built an AI finance analytics platform as a LangGraph state-machine pipeline with rule-based and LLM-fallback routing, connected to Power BI dashboards. It runs on 10+ FastAPI endpoints over 50,000+ student fee records and cut manual reporting effort by 80% across 20+ client organizations.
+- **IEEE Bangalore Section**, AI Intern, Apr to Jul 2025. Built OncoVision, a dual-output EfficientNetB0 that classifies eight cancer types and detects malignancy from histopathological images, at 97.99% and 98.13% accuracy.
+- **Right now**, building MedReasonAI (an agentic multimodal diagnostic assistant) and sharpening RAG pipeline design.
+
+<br/>
+
+## My journey so far
 
 <div align="center">
-
-![Open to Work](https://img.shields.io/badge/Open%20to-AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Data%20Scientist%2FAnalyst-2ea44f?style=flat-square)
-
+<img src="assets/journey.svg" width="100%" alt="Career timeline drawn as a git log graph, from starting B.Tech in Jul 2023 to building agentic AI now, graduating Apr 2027"/>
 </div>
 
 <br/>
 
-## 🧠 Featured Projects
+## Featured work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 MedReasonAI
-*Agentic multimodal medical diagnosis assistant*
+### [OneForAll Agent](https://github.com/adieladaniel/OneForAll-Agent)
+*Autonomous browser agent for multi-step business tasks*
 
-Fuses chest X-ray imaging, radiology text, and blood biomarkers (MIMIC-CXR + MIMIC-IV) through an agent-orchestrated pipeline - Grad-CAM + SHAP explainability, RAG-based evidence retrieval, and a consistency-checked final report.
+- A runtime-enforced human approval gate and an independent verifier check every run
+- Multi-user platform with roles, a PostgreSQL job queue with crash recovery, and a credential vault
+- Load test: 280/280 runs passed ground truth, 0 cross-org leaks across 47,508 responses
 
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-🔗 [View Repo](https://github.com/adieladaniel/medreason-ai)
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-Playwright-0d1117?style=flat-square&logo=playwright&logoColor=7dd3fc" alt="Playwright"/> <img src="https://img.shields.io/badge/-Gemini%20API-0d1117?style=flat-square&logo=googlegemini&logoColor=7dd3fc" alt="Gemini API"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 FinnBot - Financial AI Analytics Engine
+### [MedReasonAI](https://github.com/adieladaniel/medreason-ai)
+*Agentic multimodal diagnostic assistant*
+
+- Fuses chest X-ray, lab values and radiology text
+- Linked 53,000+ chest X-ray studies to clinical and lab records, and queried an 18GB+ lab-events dataset with DuckDB
+- Fusing unimodal models (MIMIC-CXR DenseNet, ClinicalBERT) lifted macro F1 from 0.51 to 0.61, with SHAP and Grad-CAM explanations
+
+<img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7dd3fc" alt="PyTorch"/> <img src="https://img.shields.io/badge/-DuckDB-0d1117?style=flat-square&logo=duckdb&logoColor=7dd3fc" alt="DuckDB"/> <img src="https://img.shields.io/badge/-ClinicalBERT-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="ClinicalBERT"/> <img src="https://img.shields.io/badge/-SHAP-0d1117?style=flat-square&logoColor=7dd3fc" alt="SHAP"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FinnBot](https://github.com/adieladaniel/FinnBot-Financial-AI-Analytics-Engine)
 *Hybrid analytics chatbot over your own data*
 
-Answers natural-language questions over uploaded datasets or live API-fetched data. Automatic schema detection, rule-based query planning with a Gemini fallback for low-confidence queries, and on-the-fly bar/pie/comparison chart generation.
+- Answers natural-language questions over uploaded or API-fetched data
+- Rule-based query planning with a Gemini fallback for low-confidence questions
+- Generates charts automatically
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7dd3fc" alt="Pandas"/> <img src="https://img.shields.io/badge/-Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=7dd3fc" alt="Gemini"/>
 
-🔗 [View Repo](https://github.com/adieladaniel/FinnBot-Financial-AI-Analytics-Engine)
+</td>
+<td width="50%" valign="top">
+
+### [Obsidian RAG Assistant](https://github.com/adieladaniel/obsidian-rag-assistant)
+*Local agentic RAG over an Obsidian vault*
+
+- Answers questions about your notes with citations back to the source
+- An agentic retrieval loop reformulates the query up to 3 times when the context is thin
+
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/> <img src="https://img.shields.io/badge/-Ollama-0d1117?style=flat-square&logo=ollama&logoColor=7dd3fc" alt="Ollama"/> <img src="https://img.shields.io/badge/-ChromaDB-0d1117?style=flat-square&logoColor=7dd3fc" alt="ChromaDB"/> <img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc" alt="React"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗂️ Obsidian Vault RAG Assistant
-*Local, agentic RAG over your own notes*
+### [OncoVision](https://github.com/adieladaniel/OncoVision)
+*Cancer classification and malignancy detection*
 
-Fully local RAG assistant that answers questions about an Obsidian vault with citations back to source notes - an agentic retrieval loop reformulates the query up to 3x when context is thin, and it can save its own answers back into the vault. Built as a 1-week MVP for a GenAI internship application.
+- Dual-output EfficientNetB0 on histopathological images: eight cancer types plus malignancy detection
+- 97.99% classification accuracy and 98.13% malignancy detection
+- Built as an AI Intern at IEEE Bangalore Section
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-🔗 [View Repo](https://github.com/adieladaniel/obsidian-rag-assistant)
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=7dd3fc" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=7dd3fc" alt="OpenCV"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 OncoVision
-*Early cancer detection via deep learning*
+### [PromptSense AI](https://github.com/adieladaniel/PromptSense-AI)
+*Prompt quality analyzer and optimizer*
 
-Dual-output EfficientNetB0 model performing multi-class cancer classification and malignancy detection on histopathological images, tuned for low-resource, edge-based clinical deployment.
+- Hybrid rule-based and transformer scoring of LLM prompts, with automatic rewrites of weak ones
+- Written up as a team research paper
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-
-🔗 [View Repo](https://github.com/adieladaniel/OncoVision)
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="Transformers"/> <img src="https://img.shields.io/badge/-DistilBERT-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="DistilBERT"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 PromptSense AI
-*NLP framework for automated prompt scoring*
+### [Prognix](https://github.com/adieladaniel/Prognix)
+*Decision support for hospital biomedical teams*
 
-Hybrid rule-based + DistilBERT scoring framework that assesses LLM prompt quality and automatically rewrites weak prompts - written up as a team research paper.
+- Predicts medical equipment failure so teams can plan ahead
 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-
-🔗 [View Repo](https://github.com/adieladaniel/PromptSense-AI)
+<img src="https://img.shields.io/badge/-Decision%20support-0d1117?style=flat-square&logoColor=7dd3fc" alt="Decision support"/> <img src="https://img.shields.io/badge/-Failure%20prediction-0d1117?style=flat-square&logoColor=7dd3fc" alt="Failure prediction"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Student Progress Tracker
-*Full-stack academic progress tracking*
+### [Web Security Checker](https://github.com/adieladaniel/Web-Security-Checker)
+*Web reconnaissance and OSINT platform*
 
-A full-stack platform for tracking student academic performance over time, with a dedicated API/backend service and a web frontend.
+- Full-stack platform for website security analysis
 
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-🔗 [View Repo](https://github.com/adieladaniel/Student_Progress_Tracker-v2)
+<img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="JavaScript"/>
 
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>📄 Also co-authored a comparative study of five metaheuristic optimization algorithms - Artificial Bee Colony, PSO, Genetic Algorithms, Differential Evolution, and Spider Monkey Optimization - benchmarked on minimum spanning tree, robot path planning, feature selection, and TSP problems.</sub></p>
+<p align="center"><sub>All repositories are on <a href="https://github.com/adieladaniel?tab=repositories">my profile</a>.</sub></p>
 
 <br/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,r&theme=dark" />
-
-**AI / ML / GenAI**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/> <img src="https://img.shields.io/badge/-ChromaDB-FF6F61?style=flat-square"/>
-
-**Backend & Web**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,fastapi&theme=dark" />
-
-**Databases & Data**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,figma,latex,jupyter&theme=dark" />
-
-<br/>
-
-## 📊 GitHub Stats
+## Right now
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adieladaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=adieladaniel&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adieladaniel&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=adieladaniel&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+<img src="assets/now-building.svg" width="100%" alt="Live card showing the repository I pushed to most recently"/>
 </div>
 
 <br/>
 
-## 📫 Connect with me
+## Toolbox
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python"/> <img src="https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=7dd3fc" alt="Java"/> <img src="https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7dd3fc" alt="JavaScript"/> <img src="https://img.shields.io/badge/-C-0d1117?style=flat-square&logo=c&logoColor=7dd3fc" alt="C"/> <img src="https://img.shields.io/badge/-SQL-0d1117?style=flat-square&logo=mysql&logoColor=7dd3fc" alt="SQL"/> <img src="https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=7dd3fc" alt="MySQL"/> <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL"/>
+</td>
+</tr>
+<tr>
+<td><b>Web and backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=7dd3fc" alt="React"/> <img src="https://img.shields.io/badge/-Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=7dd3fc" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express.js-0d1117?style=flat-square&logo=express&logoColor=7dd3fc" alt="Express.js"/> <img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=7dd3fc" alt="FastAPI"/>
+</td>
+</tr>
+<tr>
+<td><b>ML and data</b></td>
+<td>
+<img src="https://img.shields.io/badge/-NumPy-0d1117?style=flat-square&logo=numpy&logoColor=7dd3fc" alt="NumPy"/> <img src="https://img.shields.io/badge/-Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7dd3fc" alt="Pandas"/> <img src="https://img.shields.io/badge/-Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7dd3fc" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/-TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=7dd3fc" alt="TensorFlow"/> <img src="https://img.shields.io/badge/-PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7dd3fc" alt="PyTorch"/> <img src="https://img.shields.io/badge/-Deep%20learning-0d1117?style=flat-square&logoColor=7dd3fc" alt="Deep learning"/> <img src="https://img.shields.io/badge/-NLP-0d1117?style=flat-square&logoColor=7dd3fc" alt="NLP"/>
+</td>
+</tr>
+<tr>
+<td><b>GenAI and agents</b></td>
+<td>
+<img src="https://img.shields.io/badge/-LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=7dd3fc" alt="LangGraph"/> <img src="https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain&logoColor=7dd3fc" alt="LangChain"/> <img src="https://img.shields.io/badge/-RAG-0d1117?style=flat-square&logoColor=7dd3fc" alt="RAG"/> <img src="https://img.shields.io/badge/-ChromaDB-0d1117?style=flat-square&logoColor=7dd3fc" alt="ChromaDB"/> <img src="https://img.shields.io/badge/-Qdrant-0d1117?style=flat-square&logoColor=7dd3fc" alt="Qdrant"/> <img src="https://img.shields.io/badge/-LLMs-0d1117?style=flat-square&logoColor=7dd3fc" alt="LLMs"/> <img src="https://img.shields.io/badge/-Hugging%20Face-0d1117?style=flat-square&logo=huggingface&logoColor=7dd3fc" alt="Hugging Face"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=7dd3fc" alt="Git"/> <img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=7dd3fc" alt="Docker"/> <img src="https://img.shields.io/badge/-Power%20BI-0d1117?style=flat-square&logo=powerbi&logoColor=7dd3fc" alt="Power BI"/> <img src="https://img.shields.io/badge/-Tableau-0d1117?style=flat-square&logo=tableau&logoColor=7dd3fc" alt="Tableau"/> <img src="https://img.shields.io/badge/-Claude%20Code-0d1117?style=flat-square&logo=claude&logoColor=7dd3fc" alt="Claude Code"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>Certifications</b> (7)</summary>
+
+<br/>
+
+- Claude Code in Action, Anthropic
+- AI Skills Passport, EY and Microsoft
+- AWS Academy Cloud Foundations
+- Prompt Engineering, Infosys Springboard
+- Generative AI: From Prompts to Partnership, LinkedIn Learning
+- Networking Essentials, Cisco Networking Academy
+- Fundamentals of Operating System, Scaler
+
+</details>
+
+<br/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/adieladaniel">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/adieladaniel">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:adieladaniel2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<sub>Thanks for stopping by. Always up for a conversation about agentic AI, GenAI or a good LeetCode problem.</sub>
 
-<br/><br/>
+<br/>
 
-<!-- <img src="https://raw.githubusercontent.com/adieladaniel/adieladaniel/output/github-contribution-grid-snake.svg" width="100%"/> -->
-
-<sub>Thanks for stopping by - always up for a conversation about agentic AI, GenAI, or a good LeetCode problem ⚡</sub>
+<sub>Reach me at <a href="mailto:adieladaniel2006@gmail.com">adieladaniel2006@gmail.com</a></sub>
 
 </div>
