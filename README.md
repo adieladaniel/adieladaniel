@@ -6,7 +6,7 @@
 <img src="assets/portrait.svg" width="300" alt="Halftone dot portrait of Adiel A Daniel"/>
 </td>
 <td width="62%" valign="middle" align="center">
-<img src="assets/terminal.svg" width="500" alt="Terminal intro: whoami, cat role.txt, neofetch"/>
+<img src="assets/terminal.svg" width="500" alt="Terminal intro: whoami, cat about.txt, neofetch"/>
 </td>
 </tr>
 </table>
