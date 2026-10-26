@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200" role="img" aria-label="Currently building OneForAll-Agent">
-<title>Currently building: OneForAll-Agent</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200" role="img" aria-label="Currently building medreason-ai">
+<title>Currently building: medreason-ai</title>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
 @keyframes pulse{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}
@@ -20,14 +20,14 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <circle class="ring" cx="34" cy="32" r="5" fill="#86efac"/>
 <circle cx="34" cy="32" r="5" fill="#86efac"/>
 <text x="50" y="36" font-size="12.5" fill="#86efac" letter-spacing=".12em">LIVE  CURRENTLY BUILDING</text>
-<text x="832" y="36" font-size="12" fill="#6b7a8c" text-anchor="end">updated 2026-10-25</text>
-<text x="28" y="72" font-size="20" font-weight="700" fill="#7dd3fc">adieladaniel/OneForAll-Agent</text>
-<text x="28" y="100" font-size="14" fill="#d7dee8">Autonomous AI worker that does business tasks in real web apps: drives a browser, asks</text><text x="28" y="121" font-size="14" fill="#d7dee8">before changing anything, and checks its own result with an independent verifier. Mult...</text>
+<text x="832" y="36" font-size="12" fill="#6b7a8c" text-anchor="end">updated 2026-10-26</text>
+<text x="28" y="72" font-size="20" font-weight="700" fill="#7dd3fc">adieladaniel/medreason-ai</text>
+<text x="28" y="100" font-size="14" fill="#d7dee8">Agentic multi-modal medical diagnostic assistant (chest X-ray + blood labs + radiology</text><text x="28" y="121" font-size="14" fill="#d7dee8">report -&gt; Normal/Pneumonia/Lung Cancer) with explainability and RAG evidence retrieval.</text>
 <circle cx="35" cy="150" r="6" fill="#3572A5"/>
 <text x="50" y="154" font-size="13" fill="#d7dee8">Python</text>
-<text x="127" y="154" font-size="13" fill="#6b7a8c">last push 24 Oct 2026</text>
-<text x="832" y="154" font-size="13" fill="#a78bfa" text-anchor="end">coding since Jul 2024: 846 days</text>
+<text x="127" y="154" font-size="13" fill="#6b7a8c">last push 25 Oct 2026</text>
+<text x="832" y="154" font-size="13" fill="#a78bfa" text-anchor="end">coding since Jul 2024: 847 days</text>
 <text x="28" y="180" font-size="13" fill="#6b7a8c">latest commit</text>
-<text x="132" y="180" font-size="13" fill="#d7dee8">Fix a race in the per-tenant eval test</text>
-<rect class="cur" x="434" y="169" width="7" height="14" fill="#7dd3fc"/>
+<text x="132" y="180" font-size="13" fill="#d7dee8">Add prediction sets, low-confidence headline and cancer alert with rules bu...</text>
+<rect class="cur" x="746" y="169" width="7" height="14" fill="#7dd3fc"/>
 </svg>
