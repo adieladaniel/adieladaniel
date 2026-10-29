@@ -20,14 +20,14 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <circle class="ring" cx="34" cy="32" r="5" fill="#86efac"/>
 <circle cx="34" cy="32" r="5" fill="#86efac"/>
 <text x="50" y="36" font-size="12.5" fill="#86efac" letter-spacing=".12em">LIVE  CURRENTLY BUILDING</text>
-<text x="832" y="36" font-size="12" fill="#6b7a8c" text-anchor="end">updated 2026-10-28</text>
+<text x="832" y="36" font-size="12" fill="#6b7a8c" text-anchor="end">updated 2026-10-29</text>
 <text x="28" y="72" font-size="20" font-weight="700" fill="#7dd3fc">adieladaniel/medreason-ai</text>
 <text x="28" y="100" font-size="14" fill="#d7dee8">Agentic multi-modal medical diagnostic assistant (chest X-ray + blood labs + radiology</text><text x="28" y="121" font-size="14" fill="#d7dee8">report -&gt; Normal/Pneumonia/Lung Cancer) with explainability and RAG evidence retrieval.</text>
 <circle cx="35" cy="150" r="6" fill="#3572A5"/>
 <text x="50" y="154" font-size="13" fill="#d7dee8">Python</text>
-<text x="127" y="154" font-size="13" fill="#6b7a8c">last push 27 Oct 2026</text>
-<text x="832" y="154" font-size="13" fill="#a78bfa" text-anchor="end">coding since Jul 2024: 849 days</text>
+<text x="127" y="154" font-size="13" fill="#6b7a8c">last push 28 Oct 2026</text>
+<text x="832" y="154" font-size="13" fill="#a78bfa" text-anchor="end">coding since Jul 2024: 850 days</text>
 <text x="28" y="180" font-size="13" fill="#6b7a8c">latest commit</text>
-<text x="132" y="180" font-size="13" fill="#d7dee8">Phase 7 step 6: Dockerfile, compose stack, CI workflow, offline model setup...</text>
+<text x="132" y="180" font-size="13" fill="#d7dee8">Phase 7 step 7: end-to-end run on 16 validation studies, offline-twin check...</text>
 <rect class="cur" x="746" y="169" width="7" height="14" fill="#7dd3fc"/>
 </svg>
